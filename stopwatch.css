@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 15%;
+    background-image: url(new.jpg);
+}
+
+.stopwatch {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 70px;
+    margin: 20px auto;
+    max-width: 300px;
+}
+
+.time {
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+button {
+    background-color: rgb(165, 196, 112);
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 5px;
+}
+
+.laps {
+    background-color: #fab1b1e7;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 300px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    font-size: 18px;
+    margin: 5px 0;
+}
